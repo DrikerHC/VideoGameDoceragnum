@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b395001f3b5567446982160000b1a732, type: 3}
+  m_Name: NormalDifficulty
+  m_EditorClassIdentifier: 
+  InitialMinutes: 6
+  OnDecreaseDayInterval: 3
+  MinusTimeOnDecrease: 0.5
+  MinMinutes: 4
+  BaseChance: 20
+  OnIncreaseDayInterval: 2
+  PlusChanceOnIncrease: 4
+  MaxChance: 30
+  MediumErrorChance: 3
+  minorErrorChance: 2

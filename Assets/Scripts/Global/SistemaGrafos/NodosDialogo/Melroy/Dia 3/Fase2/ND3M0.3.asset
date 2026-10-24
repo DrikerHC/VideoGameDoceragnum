@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15776150960a41f4f87e19e497a03310, type: 3}
+  m_Name: ND3M0.3
+  m_EditorClassIdentifier: 
+  miTextoLocalizado:
+    m_TableReference:
+      m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+    m_TableEntryReference:
+      m_KeyId: 1152015508529152
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  opciones:
+  - textoBoton: Bueno mira, si ,es verdad, es que no me he dado cuenta
+    siguienteNodo: {fileID: 11400000, guid: f9b584d4344272244ab386e38062295b, type: 2}
+    miOpcionLocalizada:
+      m_TableReference:
+        m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+      m_TableEntryReference:
+        m_KeyId: 1152980638851072
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    consecuencias: []
+  - textoBoton: Que no de verdad que no ha venido, estaras oliendo alguna otra cosa,
+      hoy he comido ajo, eso influencia en algo?(Mentir)
+    siguienteNodo: {fileID: 11400000, guid: 38d6a2c736ef66446b98423348bacd27, type: 2}
+    miOpcionLocalizada:
+      m_TableReference:
+        m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+      m_TableEntryReference:
+        m_KeyId: 1153009088815104
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    consecuencias: []
+  - textoBoton: Mira pues si, no le he dejado pasar, no me apetecia perder dinero
+      para que tu pudieras suspender a un chaval
+    siguienteNodo: {fileID: 11400000, guid: 54e3e05a1c00ec94cb6ceacab0dfc121, type: 2}
+    miOpcionLocalizada:
+      m_TableReference:
+        m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+      m_TableEntryReference:
+        m_KeyId: 1153019960451072
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    consecuencias: []
+  references:
+    version: 2
+    RefIds: []

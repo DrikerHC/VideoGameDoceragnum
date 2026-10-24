@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ddfb3a3246761148a8cfe0952406748, type: 3}
+  m_Name: Fumon1D2M1
+  m_EditorClassIdentifier: 
+  misionID: Fumon1D2M1
+  MisionName: Encontrar al ladron de bicicletas
+  IsCumplida: 0
+  Pasos:
+  - NamePaso: Aceptar buscar al ladron
+    IsCumplido: 1
+  - NamePaso: Encontrar al ladron y hecharlo
+    IsCumplido: 0
+  - NamePaso: Hablar finalmente con Fumon
+    IsCumplido: 0
+  NameCharacterMision: 

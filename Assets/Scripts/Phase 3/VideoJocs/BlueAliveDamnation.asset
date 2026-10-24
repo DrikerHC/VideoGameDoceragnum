@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa40effa68e4b9f4e89f923d9b68712c, type: 3}
+  m_Name: BlueAliveDamnation
+  m_EditorClassIdentifier: 
+  nombreDelVideojuego: Blue Alive Damnation
+  SpriteVideojuego: {fileID: -3906549793482376877, guid: 6c5d3f68f8a2a804c8aebbc567048958, type: 3}
+  DescripcionJuego: En este juego viviremos las aventuras de una vaquero llamado
+    Arturo Morgue, que es condenado a vivir entre tristezas y matanzas mientras el
+    solo quiere ser otra vicitima de la muerte, pero debe seguir viviendo por su
+    caballo llamado vicente
+  PrecioJuego: 60
+  isBought: 0
+  BonusInicial: 15
+  DecreaseDiario: 0.65
+  BonusActual: 15
+  DiasJugados: 0
+  DiasJugables: 6

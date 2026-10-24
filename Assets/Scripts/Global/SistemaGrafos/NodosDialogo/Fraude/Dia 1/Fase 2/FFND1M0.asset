@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15776150960a41f4f87e19e497a03310, type: 3}
+  m_Name: FFND1M0
+  m_EditorClassIdentifier: 
+  miTextoLocalizado:
+    m_TableReference:
+      m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+    m_TableEntryReference:
+      m_KeyId: 4301340568805376
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  ActionSpend: 0
+  opciones:
+  - textoBoton: Ahora mismo no
+    siguienteNodo: {fileID: 0}
+    miOpcionLocalizada:
+      m_TableReference:
+        m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+      m_TableEntryReference:
+        m_KeyId: 765867128872960
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    consecuencias:
+    - {fileID: 11400000, guid: 36a2785ff79168445956fac977c0959f, type: 2}
+  - textoBoton: Claro porque no
+    siguienteNodo: {fileID: 11400000, guid: c870ce26b572b3646a201477094f88cc, type: 2}
+    miOpcionLocalizada:
+      m_TableReference:
+        m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+      m_TableEntryReference:
+        m_KeyId: 4302013326778368
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    consecuencias:
+    - {fileID: 11400000, guid: a92ed8db1b487b54ea03c16d374b56cb, type: 2}
+    - {fileID: 11400000, guid: a76348d9273c16841a9eeaeceb9165db, type: 2}
+    - {fileID: 11400000, guid: 36a2785ff79168445956fac977c0959f, type: 2}
+  references:
+    version: 2
+    RefIds: []

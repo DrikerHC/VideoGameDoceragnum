@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efcbb5a4cc3cb09418184dab87a32a0d, type: 3}
+  m_Name: F1NPD4M1P3
+  m_EditorClassIdentifier: 
+  nodoExito: {fileID: 11400000, guid: 24168c34f496c2244a2ae8eb7c6e1c1b, type: 2}
+  nodoFallo: {fileID: 11400000, guid: 9e64e365f83bbf643ae7b65c80115796, type: 2}
+  requisitos:
+  - nombreVariable: Fumon1D2M1
+    valorNecesario: 3
+    comparacion: 0

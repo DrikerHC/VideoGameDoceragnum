@@ -1,0 +1,1038 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Dialogos_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: cd660ffb914eeb4468e060acd7bc2fcd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 44910403739648
+    m_Localized: "Bien bien, pues como conserje provisional voy a necesitar que me
+      hagas un peque\xF1o favor de acuerdo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38161433059328
+    m_Localized: Hola Mark, me ha comentado Frany que ahora que el conserje ha cogido
+      la baja, te ha tocado a ti ponerte al cargo no?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45199265456128
+    m_Localized: Pues mira voy a necesitar que vayas a la clase  3A, no se cual es
+      el problema pero el internet no funciona, y hoy tengo un examen con los alumnos
+      de primero de grado superior.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45317104427008
+    m_Localized: "Ya ya bueno, ahora si quieres te doy un par de pa\xF1uelos para
+      llorar, pero necesito que como conserje provisional hagas tu trabajo ayudandome
+      en una cosilla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46004366303232
+    m_Localized: No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45678657626112
+    m_Localized: Muchas gracias colegon, ahora podre suspender a todos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49934068441088
+    m_Localized: Si, supongo que si
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50326315556864
+    m_Localized: Y una mierda, yo sigo sin aceptar esta situacion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51475819094016
+    m_Localized: Venga dime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51721001328640
+    m_Localized: No me puedo negar, asi que dime
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52462755602432
+    m_Localized: Tu has escuchado cuando he dicho que no acepto esto?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52486948347904
+    m_Localized: Que le voy a hacer, cuentame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53312722919424
+    m_Localized: Y no podrias mover el examen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53355840364544
+    m_Localized: '*suspira* de acuerdo, ahora ire'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54355133292544
+    m_Localized: Irse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54889512787968
+    m_Localized: Nada colega
+    m_Metadata:
+      m_Items: []
+  - m_Id: 719593084116992
+    m_Localized: Eyyy Mark. crees que podrias ayudar a tu gran amigo Joaquin?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 765867128872960
+    m_Localized: Ahora mismo no colega
+    m_Metadata:
+      m_Items: []
+  - m_Id: 766301121896448
+    m_Localized: Genial, tu si que eres un buen amigo, Mira te explico, hace un par
+      de dias subieron el precio de Petflix
+    m_Metadata:
+      m_Items: []
+  - m_Id: 766795508703232
+    m_Localized: Aja...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 766844296847360
+    m_Localized: La cosa es que yo estaba viendo mi telenovela favorita, Pasion en
+      estragos, y ahora ya no puedo verla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 767444321394688
+    m_Localized: Resumiendo...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 767585111597056
+    m_Localized: "Si perdona, en resumen, me la quiero ver pirata, pero desde que
+      tubis el presidente de La liga de golf espa\xF1ola, como presidente de espata,
+      es imposible encontrar facilmente alguna aplicacion, por eso le pedi ayuda
+      a Fraude, pero no hay manera, no me quiera ayudar. Necesito que lo convenzas
+      o me consigas esa web, Y MUY IMPORTANTE necesito que lo consigas hoy, porque
+      hoy sale el episodio y no pienso comerme ningun spoiler ma\xF1ana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 768799685566464
+    m_Localized: Entiendo...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769013020450816
+    m_Localized: Me ayudarias entonces?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769074764800000
+    m_Localized: Lo siento pero ahora mismo no tengo tiempo para eso
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769485810786304
+    m_Localized: Parece que los ordenadores no funcionan, deberia ir a la sala de
+      rack a comprobarlo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769731458588672
+    m_Localized: A ver busquemos por aqui... Donde estaba el maldito cable que iba
+      a esa clase...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769867752497152
+    m_Localized: Seguir buscando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 770138167664640
+    m_Localized: Joder donde estaba... Epp creo que lo he encontrado... Si este es!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 770169742385152
+    m_Localized: Mirar a fondo el cable
+    m_Metadata:
+      m_Items: []
+  - m_Id: 770255637536768
+    m_Localized: Mmm, Vale ahora tiene sentido, ese jodido raton ha vuelto a roer
+      otro cable.  A este paso me voy a comprar una Magnum para cargarme a ese bicho,
+      en fin deberia ir a buscar un cable nuevo, creo que en el almacen hay unos
+      pocos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 770300235571200
+    m_Localized: Joder aqui hay mas cables que en doble ordenador del Focas, me cago
+      en, a ver...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771333410086912
+    m_Localized: Buscar entre los cables
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771432999641088
+    m_Localized: "\xA1Aqui! Porfin. Venga voy a ir a colocarlo al Rack"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771574523846656
+    m_Localized: A ver esto por aqui, esto pot aca... Perfecto, como minimo ya esta
+      colocado, a ver si funcionan ya los ordenadores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771693180706816
+    m_Localized: Genial, porfin funciona el internet, tendria que ir a decirle a
+      Melroy que ya funciona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773492402905088
+    m_Localized: Mark! Ayer no arreglaste nada, y no pude hacer el examen a mis alumnos
+      vaya Jefe de estudios de pacotilla
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773777447804928
+    m_Localized: A mi no me puede importar menos lo que aceptes y lo que no, te arrepentiras
+      de haberme creado problemas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774740292231168
+    m_Localized: "Ehh... \xBFLo siento?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774866859548672
+    m_Localized: Yo ya te avise de que no habia aceptado nada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774984295866368
+    m_Localized: A ver tampoco hace falta ponernos asi, lo siento
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774986179108864
+    m_Localized: Mira, cuentale tus historias a otro, tengo que trabajar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776840564793344
+    m_Localized: Hola Mark querias algo?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 789370892804096
+    m_Localized: Ayudar a JoJo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 789482222215168
+    m_Localized: Ya le he dicho que no! Desde que le permitieron al Tubis eso bloquear
+      la web que quisiese  a veces es dificil hasta entrar a Youtube, tu imaginate
+      lo que me costara econtrara un capitulo de una novela pocha
+    m_Metadata:
+      m_Items: []
+  - m_Id: 791384422965248
+    m_Localized: Pues nada, tendre que decirle que no hay manera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 791590715613184
+    m_Localized: A no ser...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 793988783759360
+    m_Localized: A no ser que...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 794436664123392
+    m_Localized: Quizas si me consiguieses  un WiFi Pineapple, para ejem, hacer pruebas
+      con mis alumnos, podria pensarmelo...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 795830955630592
+    m_Localized: Seguro que lo quieres para eso no...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 800986719936512
+    m_Localized: Eso no es importante, lo importante es que si me consigues uno yo
+      le conseguire la telenovela a Joaqui,
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801487691800576
+    m_Localized: De acuerdo...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801797629894656
+    m_Localized: Genial, pues estare aqui esperando impacientemente a que me lo traigas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 804062285619200
+    m_Localized: Que si se donde hay un Wifi Pina que? Que es eso? Ahhh lo que queria
+      comprarse dani para poder espiar a los alumnos?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808281956769792
+    m_Localized: Pues si no recuerdo mal al final lo compramos pero no me acuerdo
+      de donde lo guardaron, me suena que estaba guardado en el cajon de algun aula.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1126461950484480
+    m_Localized: Pedir perdon ya no sirve de nada, no hay remedio les hare un examen
+      a estos alumnos, uno en el que haga falta internet, y no les dejare tenerlo,
+      asi quizas suspendiendo a un par me recompongo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1129748397383680
+    m_Localized: Animos supongo...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1130174739996672
+    m_Localized: Eyyy Mark, justo te estaba buscando, gracias a ti ayer puede suspender
+      a  varios alumnos, asi que estoy de buen humor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1131004775981056
+    m_Localized: "No obstante he de volver a pedirte un favor, con esto de las nuevas
+      reglas de acceso, tengo un alumno que hace mucho que no aparece, y tengo que
+      hacerle un examen, asi que te pido que ma\xF1ana le dejes pasar pase lo que
+      pase"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139954275672064
+    m_Localized: Vere lo que puedo hacer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140002459836416
+    m_Localized: Sabes que me quitan dinero si no hago bien mi trabajo no?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1145031698767872
+    m_Localized: A mi mas me da tu dinero, te aseguro que vale mas la pena tenerme
+      contento que los cochinos 20 euros que te quiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1145231544770560
+    m_Localized: He visto capos de la mafia mas legales que tu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147694339416064
+    m_Localized: Genial Mark, has dejado pasar al alumno que te dije, ya ha hecho
+      la prueba y todo, creo que no le ha ido muy bien, pero eso no es importante
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149960169545728
+    m_Localized: Pobre chaval...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150101697945600
+    m_Localized: Mark, no has dejado pasar al alumno que te dije!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150836405788672
+    m_Localized: Que raro si yo le he dejado entrar(Mentir)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150867615604736
+    m_Localized: Emmm, pues la verdad esque no ha aparecido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150892647211008
+    m_Localized: No lo he dejado pasar, que pasa eh?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1152015508529152
+    m_Localized: Mentiras!! Las huelo desde aqui... Mi olfato huele tan bien las
+      mentiras como los suspensos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1152980638851072
+    m_Localized: Bueno mira, si ,es verdad, es que no me he dado cuenta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153009088815104
+    m_Localized: Que no de verdad que no ha venido, estaras oliendo alguna otra cosa,
+      hoy he comido ajo, eso influencia en algo?(Mentir)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153019960451072
+    m_Localized: Mira pues si, no le he dejado pasar, no me apetecia perder dinero
+      para que tu pudieras suspender a un chaval
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153346512183296
+    m_Localized: "Mas te vale dejarle pasar ma\xF1ana como tarde... No me importa
+      lo que te apetezca, atente a las consecuencias de lo contrario"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153595788058624
+    m_Localized: Creo que la he liado...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1154244630110208
+    m_Localized: "Maldicion justamente el ajo es lo unico capaz de interferir en
+      mi increiblemente desarrolado olfato... Bueno por esta vez te libras, pero
+      mas te vale que ma\xF1ana aparezca!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155260289212416
+    m_Localized: Claro que si...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155791829164032
+    m_Localized: "Maldiita sea... Bueno esta vez te lo perdonare, pero mas te vale
+      que ma\xF1ana pase!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155945202278400
+    m_Localized: Si si... Lo que digas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158129126039552
+    m_Localized: Eyyy Mark, me viene de perlas que estes por aqui, ahora que ya me
+      ayudaste a que pasara aquel alumno? Pues tengo una nueva peticion, tienes que
+      dejar pasar a cualquier alumno que venga a mi clase, como lo ves?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158997946753024
+    m_Localized: Cualquiera? pero tu sabes el dinero que me va a costar eso?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159026371551232
+    m_Localized: Esta bien supongo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159807015411712
+    m_Localized: "Bueno si si, y que quieres que te diga te doy un paquete de pa\xF1uelos 
+      para que te seques las lagrimas o algo?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1160516221886464
+    m_Localized: Que gracioso...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1160529878540288
+    m_Localized: Sabes que? Dame uno si
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162130018099200
+    m_Localized: Genial pues estare esperando a mis alumnos Mark, confio en ti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162338630197248
+    m_Localized: Irse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162896539738112
+    m_Localized: Mark!! Has vuelto a no dejar pasar a mis alumnos, eres un desastre
+      como conserje y aun mas como jefe de estudios, me has decepcionado mucho, no
+      tengo nada que hablar ya contigo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1163245300310016
+    m_Localized: No es un poco injusto que me digas esto por no cumplir tus caprichos?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1163909678063616
+    m_Localized: A mi no me lo parece para nada, mas bien me parece que eres un vago
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164027659640832
+    m_Localized: Pues vaya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1381218539626496
+    m_Localized: Genial Mark de momento van pasando los alumnos, a este paso los
+      podre suspender bien a todos, ya estoy planeando el examen, montar tu propio
+      motor de videojuegos, y en 15 minutos, que buen examen va a ser...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1383477713395712
+    m_Localized: Ehh.. Animo?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1386096703922176
+    m_Localized: Mark, no has dejado pasar ni a 2 personas, me puedes dar alguna
+      explicacion!?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387376671285248
+    m_Localized: "Pero vamos a ver Mr.Pa\xF1uelos, que son las normas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387419050532864
+    m_Localized: Es que no los vi...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387532326100992
+    m_Localized: "Mentiras, no intentes enga\xF1arme, esta vez me he asegurado de
+      hablar con ellos, y me han dicho que TU no les has dejado pasar!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1388653715218432
+    m_Localized: Vaya, lo he intentado...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1388904299716608
+    m_Localized: "No importa la excusa que tengas o lo que me digas, mas te vale
+      que para ma\xF1ana hayan pasado 4 personas entre hoy y ma\xF1ana, tienen que
+      hacer un proyecto en parejas, y si por tu culpa son impares tendre que hacer
+      que alguien tenga mas 20 minutos para montar un sistema de multijugador...Eso
+      no puede ser!!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1389584108314624
+    m_Localized: No crees que 20 tambien se queda algo corto?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1390351267487744
+    m_Localized: Mmm... Quizas si estuviesemos en una guarderia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1390689127063552
+    m_Localized: "Ya te lo he dicho muchas veces, que a mi ME DAN IGUAL, mas te vale
+      que para ma\xF1ana hayas dejado a pasar a 4 personas entre hoy y ma\xF1ana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1391254317916160
+    m_Localized: No has dejado pasar ni a una sola persona, es indignante, estoy
+      harto de tus tonterias, por tu culpa tendre que hacer lo que mas odio en este
+      mundo, cambiar el examen, adaptarlo y hacerlo mas facil, NO QUIERO VOLVERTE
+      A VER!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1394536780226560
+    m_Localized: Aqui estas Mark, has hecho estupendamente tu trabajo, he podido
+      hacer el proyecto como queria, al final les he hecho hacer un sistema informatico
+      de 0 en 15 minutos y entre 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395266656231424
+    m_Localized: Genial?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395314471297024
+    m_Localized: No te dan ni un poquilo de pena? creo que uno de esos tiene estres
+      postraumatico
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395469727653888
+    m_Localized: No te he dicho ya que era entre 2 personas? Ademas pena deberia
+      darte yo, que con estos alumnos inutiles llevo sin dormir desde navidades de
+      2023 que decidi darme un lujo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395873483939840
+    m_Localized: Y sigues vivo?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395951569297408
+    m_Localized: Claro que si y mas que nunca, no me hace falta dormir, recargo energias
+      con los suspensos de mis alumnos, estoy mejor que nunca, me llenan de vitalidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396209837760512
+    m_Localized: No se en que fase de la cadena evolutiva estaba esa opcion, pero
+      creo que me la salte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396338753888256
+    m_Localized: Por cierto Mark, hoy no te pedire nada, pero si que me gustaria
+      que estuvieses atento, ultimamente me parece que hay algo muy raro aqui, aun
+      no se el que pero lo descubrire
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399256945090560
+    m_Localized: "\xA1Mark! No has traido a los alumnos que te he pedido, te lo avise!
+      Ahora por tu culpa tendre que rehacer el examen, esto me lo pagaras"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399891123855360
+    m_Localized: A ver que tampoco es para tanto no?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399877735636992
+    m_Localized: Me vas a dejar vivir?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1400725253480448
+    m_Localized: En realidad, esta vez estoy a favor de una de tus peticiones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1401163541471232
+    m_Localized: Hoy no tengo nada que hablar marc, sigue atento a lo qte dije
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1401245917601792
+    m_Localized: Oye Mark, he estado fijandome un poco mas en lo que te comente antes
+      de ayer, y me he dado cuenta de un par de cosas, lo primero, no te parece raro
+      como estan evolucionando las reglas para pasar al instituto?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1402536253284352
+    m_Localized: Que quieres decir?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1402631312990208
+    m_Localized: No te has fijado en que parecen adaptarse? Cada actualizacion de
+      lo requisitos de entrada parece adaptarse, como si crearan la regla que a mas
+      gente impedira el paso. Como si un dia la caducidad del DNI no es necesaria,
+      pero de repente hay mucha gente con el caducado y entonces pum, Norma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1403535940476928
+    m_Localized: Ahora que lo dices...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1403742363148288
+    m_Localized: Y no te parece todo eso un poco raro? Que se adapte, en caso de
+      que sea asi como siquiera sabe la Genialitat quienes han pasado y quienes no?
+      A mi esto me hace sospechar... Es como si alguien dentro del instituto se lo
+      estuviera comunicando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1404324599652352
+    m_Localized: Quieres decir un profesor?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405780362878976
+    m_Localized: No lo se exactamente, pero alguien esta transmitiendoles la informacion,
+      tenemos que encontrarlo, y tiene que ser rapido, tengo fuentes que me han comunicado
+      que algo importante pasara dentro de 3 dias, asi que tenemos que encontrarlo
+      antes para partir con alguna ventaja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1406415309201408
+    m_Localized: Es la segunda vez que estoy de acuerdo contigo, eso me asusta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1406550164463616
+    m_Localized: Tenemos que investigar y enoontar que personas podrian ser, tengo
+      cierta sospecha de quienes te podrian ayudar a encontrar al chivato, habla
+      con Fraude, Frany, y el profesor ese nuevo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1407096132820992
+    m_Localized: Esta bien
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1407586761531392
+    m_Localized: Eyy Mark, has hablado con quien te dije?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1408003574685696
+    m_Localized: En ello estoy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1408092829474816
+    m_Localized: "Recuerda que ma\xF1ana tienes que decidir ma\xF1ana, no tenemos
+      mas tiempo, asi que date prisa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1409499297046528
+    m_Localized: Lo intentare
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1409547716091904
+    m_Localized: "Aun no has hablado con nadie? Mira sabes que no me voy ni a molestar,
+      investigues o no ma\xF1ana tendras que elegir, y si falla el culpable las consecuencias
+      seran para ti no para mi, asi que...Tu veras"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1410076265504768
+    m_Localized: Creo que deberia de investigar un poco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411671912964096
+    m_Localized: Es el momento Mark, debes elegir, quien es el chivato?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411832840019968
+    m_Localized: Joaquin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411863273889792
+    m_Localized: Frany Fraude
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411875991019520
+    m_Localized: Los Fumones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411899512676352
+    m_Localized: Vector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411912632459264
+    m_Localized: Yo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412147446374400
+    m_Localized: Asi que los fumones eh... Sabia que no me podia fijar de esos alumnos,
+      siempre saltandose clase, saliendo a fumar, o eso dicen. Venga vamos a interrogarlos!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412528658276352
+    m_Localized: Asi que este Fraude, si esque ya lo decia su apellido... con sus
+      maquinitas y todo el dia usando los cacharritos que le conseguimos en vez para
+      dar clase , para pasar el rato y hacer chorradas... Venga vayamos a interrogarle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413005634527232
+    m_Localized: "Como? Tu? Asi que siempre fuiste tu!! Maldita sea me tenias enga\xF1ado,
+      te las voy a hacer pagar por enga\xF1arme y por esas estupidas reglas"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413291518287872
+    m_Localized: Es broma!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413385936265216
+    m_Localized: A por el
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413594175070208
+    m_Localized: A por ellos!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413805001760768
+    m_Localized: Si claro, ahora te arrepientes de haberte confesado, pero ya es
+      tarde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413935562055680
+    m_Localized: Intentar huir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413994886291456
+    m_Localized: Asi que vector...No me lo habria esperado..Pero si tu lo dices vamos,
+      vayamos a interrogarlo!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1414177518870528
+    m_Localized: Vayamos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1414335463776256
+    m_Localized: Asi que ese maldito profesor nuevo...Siempre me habia parecido sospechoso,
+      tan extrovertido y ruidoso, venga, vamos a interrogarlo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1414343177101312
+    m_Localized: Vamos!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2263877594075136
+    m_Localized: No Puedo con mi alma necesito irme a casa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2627726513627136
+    m_Localized: Eyy que tal Mark, te he visto bastante bien gestionando alumnos
+      no?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633186625019904
+    m_Localized: Bueno no puedo decir que me haga ilusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633455756730368
+    m_Localized: Bueno... Tampoco esta tan mal al fin y al cabo solo es hacetu trabajo
+      mas el que hacia el consere, lo que equivale al doble y cobrar un mismo sueldo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633656315764736
+    m_Localized: Has dicho por un mismo sueldo?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633666914770944
+    m_Localized: Doble descanso no tendre por eso no..?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2638140328730624
+    m_Localized: Bueno bueno, eso no es importante, no te ilusiona? es como un ascenso
+      Jaja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2638774209699840
+    m_Localized: Deberias apuntarte al salon de la comedia sabes?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2876100319993856
+    m_Localized: Eyy buenos dias conserje!? Que tal Mark, como llevas la nueva noticia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2876431162499072
+    m_Localized: Con ganas de coger la baja yo tambien, por?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2876647219486720
+    m_Localized: Bueno bueno, evitemos esos pensamientos tan negativos, vengo a ayudarte
+      un poco, hoy sera un dia sencillo no te preocupes, primero de todo, ves la
+      carta que tienes sobre la mesa?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2876981157388288
+    m_Localized: Perfecto, esa carta te llegara todos los dias, bueno mas bien nos
+      mandan un gmail, pero yo te la imprimo pa que quede mas guay. La question es
+      que en esa carta veras los requisitos de cada dia, no te confundas con dias
+      anteriores porque a veces cambiara, bueno, de momento todo claro no?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2877948967870464
+    m_Localized: Genial, por ulimo si te fijas en la misma mesa a la izquierda tienes
+      un manual, en dicho manual tienes la explicacion de cada regla y como aplicarla,
+      asi que si tienes dudas revisala, y bueno supongo que lo de los botones no
+      te lo tengo que explicar no? Asi que eso es todo, animo, no te quivoques y
+      recuerda que cada fallo tiene una sancion economica.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2638987813019648
+    m_Localized: 'Bueno bueno, en realidad venia a recordarte que como jefe de estudios
+      ahora te toca la parte mas divertida de todas. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884744746983424
+    m_Localized: Y se me voy antes de que pasen?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884868160184320
+    m_Localized: "Siempre puedes irte, siempre que te quieras ir solamente tienes
+      que ir hacia la entrada del instituto e interactuar con ela a la E, pero no
+      olvides que las tareas que te dejes sin hacer hoy, te afectaran ma\xF1ana"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2905526357286912
+    m_Localized: Epss... Mark...Necesito pedirte un favor...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3317755170873344
+    m_Localized: Dedicarte toda la tarde a hacer tareas de un lado para el otro.
+      Recuerda que solamente tienes 5 horas por las tardes, dichas horas las veras
+      representadas como relojes, cada reloj representa una hora, cuando te quedes
+      sin ya no podras hacer nada mas, asi que recuerda priorizar bien las tareas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318504797855744
+    m_Localized: Cual...?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3324479361605632
+    m_Localized: No se que hacer con esto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4301340568805376
+    m_Localized: Ey Mark, que tal, sabes que? he conseguido que la NASA me envie
+      una carta, quiere que te cuente como?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4302013326778368
+    m_Localized: Claro, porque no?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4303226516627456
+    m_Localized: '*Explica largo y tendido, como detectando que a traves del link
+      de una imagen podias acceder al numero de pie de unos de los padres de un astronauta,
+      todo sin saltarse un solo detalle, y dejando clara su proeza* Que tal, a que
+      mola?*'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4303758052384768
+    m_Localized: Mark ,menos mal que te veo, necesito ayuda no se que clase me toca
+      hacer, socorroo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4308099287048192
+    m_Localized: Tranquilo, yo te ayudo, a ver deja que lo mire en el movil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4308243336224768
+    m_Localized: Esque no encuentro el correo que me enviaste!!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4308586665172992
+    m_Localized: Revisare el movil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4308883152134144
+    m_Localized: '*Buscais juntos durante un buen rato, finalmente mirando en el
+      correo, os dais cuenta de que resulta que Mark si que envio el correo, pero
+      a un tal Joaquin Sanchez* Ese no soy yo! Bueno no importa, me vale con saber
+      a donde tengo que ir, me voy volando!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4309957195948032
+    m_Localized: Adios...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4405921789333504
+    m_Localized: Ey Mark,  tienes un momento?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4406629964009472
+    m_Localized: Menos mal, mira te cuento, tu sabes que yo vengo en bici verdad
+      Mark?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4407976352370688
+    m_Localized: Aja, y cual es el problema?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4412288910577664
+    m_Localized: A eso iba, la question esque desde hace un par de semanas no dejan
+      de desaparecer bicis, y honestamente no tengo ganas de esperara a que la proxima
+      sea la mia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4412594515955712
+    m_Localized: Ya, no seria lo suyo desde luego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4432220381597696
+    m_Localized: Entonces basicamente me gustaria pedirte que encontrarar al ladrom
+      , ahora que eres tambien conserje quizas puedas fijarte en quien has dejado
+      pasar y ver si luego hay alguien dentro del instituto que no deberia... Me
+      ayudaras?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434052822683648
+    m_Localized: De acuerdo, te avisare cuando lo encuentre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434178119127040
+    m_Localized: Paso de problemas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434521448075264
+    m_Localized: ' Has encontrado ya al ladron Mark?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434641229008896
+    m_Localized: En ello estoy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434775954247680
+    m_Localized: No me lo puedo creer Mark, has encontrado al ladron, eres un maquina,
+      mi profe favorito te lo juro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4438036203524096
+    m_Localized: De nada,se feliz con tu bici
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4668220420743168
+    m_Localized: Ey Mark... Te veo algo decaido y tenso... que te parece si como
+      compensacion te doy un de estos, te relajara te lo aseguro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4715034507304960
+    m_Localized: Coger
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4717210407362560
+    m_Localized: Hombre Mark, segundo dia como conserje que tal como lo llevas? Seguro
+      que Melroy no deja de pedirte cosas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4717387071447040
+    m_Localized: Es lo unico que hace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4717610141310976
+    m_Localized: Bueno Bueno, en realidad si tuviese que darte un consejo es que
+      le sigas el rollo,  pese a lo que pueda parecer en realidad suele salir bastante
+      bien tener a Melroy de tu lado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4717849652846592
+    m_Localized: Espero por mi bien que tengas razon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4718042687299584
+    m_Localized: Y que tal, como llevas lo de gestionarte las horas? Por cierto antes
+      de que se me olvide, en ocasiones ocurren problemas de improvisto en el instituto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4718048697737216
+    m_Localized: Ya bueno, eso ya me pasaba como jefe de estudios
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4718670054514688
+    m_Localized: Ya...La unica diferencia esque antes algunos de esos problemas los
+      solucionaba el conserje, ahora lo haras tu tambien...Ten en cuenta que no estas
+      del todo obligado, pero los problemas que ignores haran que tu reputacion baje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4719193809838080
+    m_Localized: Pues vaya noticia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4763348357828608
+    m_Localized: Hola Marc, necesito que me dejes pasar porfavor,  tengo un examen
+      de Melroy super importante, y no se si me ha dado tiempo a tener los documentos
+      al dia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5109980253343744
+    m_Localized: Ey Mark ya me puedes estar dejando pasar, cacho pan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5110323649400832
+    m_Localized: Me lo pienso colega
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5110404666576896
+    m_Localized: Ni pensar ni ostias dejame pasar!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5110507481550848
+    m_Localized: Bueno Bueno...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5114965598883840
+    m_Localized: Buenos dias Mark, me dejas pasar?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5115206242881536
+    m_Localized: Deja que revise un poco
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5159650287636480
+    m_Localized: Que tal Mark? Pasandotelo bien?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5159854093062144
+    m_Localized: Si, Genial...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4763715363622912
+    m_Localized: Asi que el alumndo de Melroy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5175919934132224
+    m_Localized: Ey Mark, listo para irte a la cama eh?? No te olvides de pasarte
+      un rato en el ordenador, que hasta los conserjes necesitan un poco de ocio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9108175581040640
+    m_Localized: Al ordenador?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9385139627450368
+    m_Localized: Pues claro Mark, recuerda jugar un poco en stum, eso si no olvides
+      variar un poco de videojuegos y revisar sus precios y la diversion que son
+      capaces de darte...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9385964659630080
+    m_Localized: De acuerdo... Algo mas que deba saber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9386754430296064
+    m_Localized: "Poco mas, lo de siempre, recuerda pagar las facturas a traves del
+      ordenador para evitar que te aparezca Malienda a quitarte hasta la ropa, y
+      por lo demas no se, tienes la tienda para comprarte cosas, investiga un poco
+      que no soy tu padre hombre, en fin me voy que empieza la monta\xF1a de las
+      incitaciones "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9387474273525760
+    m_Localized: Ya me contaras supongo..
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

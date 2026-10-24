@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efcbb5a4cc3cb09418184dab87a32a0d, type: 3}
+  m_Name: FranyD5F1NP
+  m_EditorClassIdentifier: 
+  nodoExito: {fileID: 11400000, guid: db66b6684ef61e14aad3b3c34c0d02eb, type: 2}
+  nodoFallo: {fileID: 11400000, guid: 290cff07a7d4324468d4965fc3d25dc3, type: 2}
+  requisitos:
+  - nombreVariable: Fase
+    valorNecesario: 1
+    comparacion: 2

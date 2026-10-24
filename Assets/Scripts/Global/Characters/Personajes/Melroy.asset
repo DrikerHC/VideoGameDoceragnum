@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6895d8fdc8716dc46974f6b41609af15, type: 3}
+  m_Name: Melroy
+  m_EditorClassIdentifier: 
+  Name: Melroy
+  Surname1: Bate
+  Surname2: Artista
+  Gender: H
+  Photo: {fileID: 0}
+  DniNumber: 32979745G
+  CenterName: Ies Sabadell
+  CenterAddress: Carrer Juvenal 19
+  CenterCity: Sabadell
+  StudentId: 0
+  Grade: 0
+  Model:
+    Type: 1
+    Documents: 
+  Documents: []
+  RootNode: {fileID: 11400000, guid: 36b3a46e728fbd54db124130ec0c1525, type: 2}
+  afectoActual: 55
+  afectoMaximo: 100
+  listaConsecuenciasPorDia:
+    listas: []
+  LocatedInRoom: Floor1Body
+  DefaultPosition: {x: 6.5, y: -1, z: 0}
+  Position: {x: 0, y: 0, z: 0}
+  Sprite: {fileID: 21300000, guid: a5cdbe90dd0bbe346840a174bc23b808, type: 3}
+  DialogueImage: {fileID: -5121828070756692555, guid: 6cab621ae06a7204c953c3c7eba86ec9, type: 3}
+  colorDeNombre: {r: 1, g: 1, b: 1, a: 1}
+  IsTalkedToday: 0

@@ -1,0 +1,2 @@
+Credits to h8man and his GitHub Project NavMeshPlus, it's used for 2D navigation of the Npcs in Phase 2.
+Credits to Simon Darkside Jackson and his Project Unity UI Extensions for the UICircle Script.

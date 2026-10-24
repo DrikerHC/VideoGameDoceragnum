@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 570fc1c407ebf744e964132949853e8d, type: 3}
+  m_Name: Day3
+  m_EditorClassIdentifier: 
+  StoryCharacters:
+  - {fileID: 11400000, guid: 6707e5c071f630a48b421e684bda5c6e, type: 2}
+  - {fileID: 11400000, guid: 41db80089a700b948944c9d73e244459, type: 2}
+  - {fileID: 11400000, guid: f4b5c3e0e9cf4574ab1fb2b303398c15, type: 2}
+  VisitorModels:
+  - Type: 0
+    Documents: 0000000001000000
+  - Type: 1
+    Documents: 0000000002000000
+  ErrorTypes:
+  - {fileID: 11400000, guid: 808d31de4a2a4b04d918a039115d86a0, type: 2}
+  - {fileID: 11400000, guid: 6dcee49b864d0a34b8f2c267d8eff550, type: 2}
+  - {fileID: 11400000, guid: 3966cbab5c968d048af2e6e566e55529, type: 2}
+  - {fileID: 11400000, guid: 6ef6dc9de2888d34c96026f2e0040e41, type: 2}
+  RequisitesOfToday:
+  - {fileID: 11400000, guid: d114d5a0178d4f3448dddaa37bda2150, type: 2}
+  - {fileID: 11400000, guid: c3bf537db1cfdfe44a5a7655758cbe88, type: 2}
+  - {fileID: 11400000, guid: 88eadfbc8691ff74387375d4c3172a73, type: 2}
+  - {fileID: 11400000, guid: 762ede9bf7395ac468c90e64b2f71f99, type: 2}
+  HasRandomEvents: 1
+  RandomEventProb: 100

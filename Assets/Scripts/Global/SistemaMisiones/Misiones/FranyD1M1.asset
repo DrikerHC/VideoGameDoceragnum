@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ddfb3a3246761148a8cfe0952406748, type: 3}
+  m_Name: FranyD1M1
+  m_EditorClassIdentifier: 
+  misionID: FranyD1M1
+  MisionName: Primeros mochazos
+  IsCumplida: 1
+  Pasos:
+  - NamePaso: Escuchar a Frany explicarte el tuto
+    IsCumplido: 1
+  - NamePaso: Hablar con Melroy
+    IsCumplido: 1
+  - NamePaso: Hablar con Fraude
+    IsCumplido: 1
+  - NamePaso: Hablar con JoJo
+    IsCumplido: 1
+  NameCharacterMision: 

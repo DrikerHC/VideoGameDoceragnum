@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efcbb5a4cc3cb09418184dab87a32a0d, type: 3}
+  m_Name: Fumon1D10F1NP
+  m_EditorClassIdentifier: 
+  nodoExito: {fileID: 11400000, guid: 48294cbe2e70ddf4295848408e430b41, type: 2}
+  nodoFallo: {fileID: 11400000, guid: 14bf8b9006931cb4e82c14cd85d27072, type: 2}
+  requisitos:
+  - nombreVariable: Fase
+    valorNecesario: 1
+    comparacion: 2

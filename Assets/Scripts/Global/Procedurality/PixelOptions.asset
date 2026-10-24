@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec8fe36ef69db7740ab74b95c1e25c1f, type: 3}
+  m_Name: PixelOptions
+  m_EditorClassIdentifier: 
+  Hairs:
+  - Name: Negro
+    Sprite: {fileID: 21300000, guid: 7cfabaccfc92e264ab6b202fdc045c3b, type: 3}
+  - Name: "Casta\xF1o"
+    Sprite: {fileID: 21300000, guid: 36241c7002975f9478302be4118626db, type: 3}
+  - Name: Rubio
+    Sprite: {fileID: 21300000, guid: 1505bc4a701ac48439a3b6adf2032ff0, type: 3}
+  - Name: Gris
+    Sprite: {fileID: 21300000, guid: 8edb461ddc54c654e80565fc2c16ced9, type: 3}
+  - Name: Pelirrojo
+    Sprite: {fileID: 21300000, guid: 36da17d3c2b840b4b89f3146fbd202fa, type: 3}
+  Shirts:
+  - Name: Roja
+    Sprite: {fileID: 21300000, guid: 02a0b36e5b4af6e4eb30bf5dfd5473a8, type: 3}
+  - Name: Verde
+    Sprite: {fileID: 21300000, guid: b8f09ca3095f4dd468e89e2186513a92, type: 3}
+  - Name: Azul
+    Sprite: {fileID: 21300000, guid: e6597a14efb06b94b9a7c867968fadc3, type: 3}
+  - Name: Morada
+    Sprite: {fileID: 21300000, guid: da61ff7a29883964e9ce83a3d20ff04e, type: 3}
+  - Name: Negra
+    Sprite: {fileID: 21300000, guid: 1c15c6e86b7536941af86e7b9c1becbe, type: 3}
+  - Name: A cuadros
+    Sprite: {fileID: 21300000, guid: 9fe6b4060bcaf9c4091e977c2e970fc5, type: 3}
+  - Name: Amarilla
+    Sprite: {fileID: 21300000, guid: d83e66b0ee047d04e981d0ecd82b09cb, type: 3}
+  - Name: "Marr\xF3n"
+    Sprite: {fileID: 21300000, guid: e451cad843f733a4a961de051ac62d70, type: 3}
+  Pants:
+  - Name: Vaqueros
+    Sprite: {fileID: 21300000, guid: da6c4315787fafc4fa9c918413530707, type: 3}
+  - Name: Tejanos
+    Sprite: {fileID: 21300000, guid: 44e3689115c27b948b0144c59e908821, type: 3}
+  - Name: Chinos
+    Sprite: {fileID: 21300000, guid: 4c16230d28231df4cb6790ab7750624a, type: 3}
+  - Name: Cortos
+    Sprite: {fileID: 21300000, guid: ac8a323bafe1469409b2dc01ff83c0f3, type: 3}
+  - Name: Cargo
+    Sprite: {fileID: 21300000, guid: 23f4be6ff977cf949a034bed76d78476, type: 3}

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15776150960a41f4f87e19e497a03310, type: 3}
+  m_Name: TutoF3.0
+  m_EditorClassIdentifier: 
+  miTextoLocalizado:
+    m_TableReference:
+      m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+    m_TableEntryReference:
+      m_KeyId: 5175919934132224
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  ActionSpend: 0
+  opciones:
+  - textoBoton: 
+    siguienteNodo: {fileID: 11400000, guid: 2cbe30891b9bbe24abae1b5843e96cf8, type: 2}
+    miOpcionLocalizada:
+      m_TableReference:
+        m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+      m_TableEntryReference:
+        m_KeyId: 9108175581040640
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    consecuencias: []
+  references:
+    version: 2
+    RefIds: []

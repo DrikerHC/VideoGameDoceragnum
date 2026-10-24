@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15776150960a41f4f87e19e497a03310, type: 3}
+  m_Name: F1ND10M0.1
+  m_EditorClassIdentifier: 
+  textoDialogo: 'Asi que algo sospechoso? Como sabes que yo me entero de todo eh...
+    Pues la verdad esque aparte de estas nuevas reglas, el profe nuevo, el ultimo
+    examen del eloi que por cierto fue como para detenerlo. Aparte de eso no he visto
+    mucha cosa mas, aunque bueno... '
+  opciones:
+  - textoBoton: dime
+    siguienteNodo: {fileID: 11400000, guid: 917d6b799f70bb240b35e87b9d1116c4, type: 2}
+    consecuencias: []

@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: 2336cea30a994404a87c77f240216098
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6816063662307153276
+    second: ProfessorStamp_0
+  - first:
+      213: 363087005725568352
+    second: ProfessorStamp_1
+  - first:
+      213: -8379867074450160837
+    second: ProfessorStamp_2
+  - first:
+      213: 6905915668965227427
+    second: ProfessorStamp_3
+  - first:
+      213: 469993906278636872
+    second: ProfessorStamp_4
+  - first:
+      213: 2845998942148743321
+    second: ProfessorStamp_5
+  - first:
+      213: 8454756566442963393
+    second: ProfessorStamp_6
+  - first:
+      213: 1470640273592661145
+    second: ProfessorStamp_7
+  - first:
+      213: -1701277150986887764
+    second: ProfessorStamp_8
+  - first:
+      213: -8176339692391498824
+    second: ProfessorStamp_9
+  - first:
+      213: -551934613301997080
+    second: ProfessorStamp_10
+  - first:
+      213: 4417207443700969665
+    second: ProfessorStamp_11
+  - first:
+      213: 7584157828955071437
+    second: ProfessorStamp_12
+  - first:
+      213: 296987331586324843
+    second: ProfessorStamp_13
+  - first:
+      213: -4301135122297917503
+    second: ProfessorStamp_14
+  - first:
+      213: -8840977476112166649
+    second: ProfessorStamp_15
+  - first:
+      213: -1045654374120962686
+    second: ProfessorStamp_16
+  - first:
+      213: 5992478415917913214
+    second: ProfessorStamp_17
+  - first:
+      213: -3594872125206094615
+    second: ProfessorStamp_18
+  - first:
+      213: 6378870966547076380
+    second: ProfessorStamp_19
+  - first:
+      213: -5037905888301371795
+    second: ProfessorStamp_20
+  - first:
+      213: -3887650872933490504
+    second: ProfessorStamp_21
+  - first:
+      213: 8752531826012983902
+    second: ProfessorStamp_22
+  - first:
+      213: 3553428502677873919
+    second: ProfessorStamp_23
+  - first:
+      213: -7102831785383647473
+    second: ProfessorStamp_24
+  - first:
+      213: -5160989731142589769
+    second: ProfessorStamp_25
+  - first:
+      213: 3990989785951801432
+    second: ProfessorStamp_26
+  - first:
+      213: -4289787058355537283
+    second: ProfessorStamp_27
+  - first:
+      213: 651531645496952940
+    second: ProfessorStamp_28
+  - first:
+      213: -8143627300537270226
+    second: ProfessorStamp_29
+  - first:
+      213: 1121862434478374945
+    second: ProfessorStamp_30
+  - first:
+      213: -5275199783236222264
+    second: ProfessorStamp_31
+  - first:
+      213: -5156164167437145336
+    second: ProfessorStamp_32
+  - first:
+      213: -6506863997820202389
+    second: ProfessorStamp_33
+  - first:
+      213: -5259187935789953000
+    second: ProfessorStamp_34
+  - first:
+      213: 4266209534640381760
+    second: ProfessorStamp_35
+  - first:
+      213: -172081100790132143
+    second: ProfessorStamp_36
+  - first:
+      213: 5091994221538937264
+    second: ProfessorStamp_37
+  - first:
+      213: 321520756311004596
+    second: ProfessorStamp_38
+  - first:
+      213: -3128676253725735095
+    second: ProfessorStamp_39
+  - first:
+      213: -2265920729610219515
+    second: ProfessorStamp_40
+  - first:
+      213: 7416864963915247891
+    second: ProfessorStamp_41
+  - first:
+      213: -8306361487184790570
+    second: ProfessorStamp_42
+  - first:
+      213: 8325506711564862557
+    second: ProfessorStamp_43
+  - first:
+      213: 872503660654546667
+    second: ProfessorStamp_44
+  - first:
+      213: -2160588797972205395
+    second: ProfessorStamp_45
+  - first:
+      213: 1702392776507392116
+    second: ProfessorStamp_46
+  - first:
+      213: 2659008618896287507
+    second: ProfessorStamp_47
+  - first:
+      213: 8207342618778362963
+    second: ProfessorStamp_48
+  - first:
+      213: 385193842251605664
+    second: ProfessorStamp_49
+  - first:
+      213: 482237055703383059
+    second: ProfessorStamp_50
+  - first:
+      213: -8087862305951170741
+    second: ProfessorStamp_51
+  - first:
+      213: -7668342301088443722
+    second: ProfessorStamp_52
+  - first:
+      213: -443647054315658170
+    second: ProfessorStamp_53
+  - first:
+      213: 917836359612974523
+    second: ProfessorStamp_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProfessorStamp_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 39
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75144ea9c5879e50800000000000000
+      internalID: 6816063662307153276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 83
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d25de35b1f90500800000000000000
+      internalID: 363087005725568352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 83
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3308625b4bb4bb80800000000000000
+      internalID: -8379867074450160837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 84
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abf97936bdb6df50800000000000000
+      internalID: 6905915668965227427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 83
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d1656b7f0c58600800000000000000
+      internalID: 469993906278636872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 83
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990d9e985f40f7720800000000000000
+      internalID: 2845998942148743321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1fb3d4d44555570800000000000000
+      internalID: 8454756566442963393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 83
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994bfdb7983c86410800000000000000
+      internalID: 1470640273592661145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 83
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad10f6e179d368e0800000000000000
+      internalID: -1701277150986887764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 83
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbf310be5ec78e80800000000000000
+      internalID: -8176339692391498824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 83
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e154eab4622758f0800000000000000
+      internalID: -551934613301997080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0f10544c21d4d30800000000000000
+      internalID: 4417207443700969665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 84
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc36d53ec57504960800000000000000
+      internalID: 7584157828955071437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 83
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b697ef1976c1f1400800000000000000
+      internalID: 296987331586324843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 83
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfe978056c4f44c0800000000000000
+      internalID: -4301135122297917503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 84
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701da15b3d98e4580800000000000000
+      internalID: -8840977476112166649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 79
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285cfa803e61d71f0800000000000000
+      internalID: -1045654374120962686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 83
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e749bf8ae5f892350800000000000000
+      internalID: 5992478415917913214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 55
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec132c39d27c1ec0800000000000000
+      internalID: -3594872125206094615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 54
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15571de85d468850800000000000000
+      internalID: 6378870966547076380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 50
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ea2fb5943c51ab0800000000000000
+      internalID: -5037905888301371795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 54
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0ef04f02a4c0ac0800000000000000
+      internalID: -3887650872933490504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_22
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e521ec6a25d377970800000000000000
+      internalID: 8752531826012983902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_23
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 54
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4ecd47560505130800000000000000
+      internalID: 3553428502677873919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 55
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07aad4af1cad6d90800000000000000
+      internalID: -7102831785383647473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_25
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 54
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2aec10f2b7068b0800000000000000
+      internalID: -5160989731142589769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 55
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8509edda018d26730800000000000000
+      internalID: 3990989785951801432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 54
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a76a0166d9774c0800000000000000
+      internalID: -4289787058355537283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 54
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6885c16494ba0900800000000000000
+      internalID: 651531645496952940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 66
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e208d40fd160cfe80800000000000000
+      internalID: -8143627300537270226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 55
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12040f5b0f7a19f00800000000000000
+      internalID: 1121862434478374945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 54
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ccf01fb9bac6b0800000000000000
+      internalID: -5275199783236222264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_32
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 54
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80baf4c1200a178b0800000000000000
+      internalID: -5156164167437145336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_33
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 54
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6216283ba9f2b5a0800000000000000
+      internalID: -6506863997820202389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_34
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 54
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8105830df6c9307b0800000000000000
+      internalID: -5259187935789953000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 54
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fdf99e7fe943b30800000000000000
+      internalID: 4266209534640381760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_36
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 55
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15298da8625ac9df0800000000000000
+      internalID: -172081100790132143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_37
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 54
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b98b2514c56aa640800000000000000
+      internalID: 5091994221538937264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 26
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b515d3ac65467400800000000000000
+      internalID: 321520756311004596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 26
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9474a7f0685b494d0800000000000000
+      internalID: -3128676253725735095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 25
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500936e0a15dd80e0800000000000000
+      internalID: -2265920729610219515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 25
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3117531736ffde660800000000000000
+      internalID: 7416864963915247891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 26
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db7d548c30e9bc80800000000000000
+      internalID: -8306361487184790570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 25
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5444f56e342a8370800000000000000
+      internalID: 8325506711564862557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 25
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beeca86e471cb1c00800000000000000
+      internalID: 872503660654546667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 25
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0bd2f7feb0402e0800000000000000
+      internalID: -2160588797972205395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 26
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4700ae7e53d10a710800000000000000
+      internalID: 1702392776507392116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 25
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317e3083042b6e420800000000000000
+      internalID: 2659008618896287507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_48
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 26
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354653e90a656e170800000000000000
+      internalID: 8207342618778362963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 26
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6231932cb785500800000000000000
+      internalID: 385193842251605664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 26
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cfab21c0041b600800000000000000
+      internalID: 482237055703383059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 20
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f3285851422cf80800000000000000
+      internalID: -8087862305951170741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 25
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b295874e43949590800000000000000
+      internalID: -7668342301088443722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_53
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 26
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644edd9ca59d7d9f0800000000000000
+      internalID: -443647054315658170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProfessorStamp_54
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 26
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb54ba06e4fccbc00800000000000000
+      internalID: 917836359612974523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ProfessorStamp_0: 6816063662307153276
+      ProfessorStamp_1: 363087005725568352
+      ProfessorStamp_10: -551934613301997080
+      ProfessorStamp_11: 4417207443700969665
+      ProfessorStamp_12: 7584157828955071437
+      ProfessorStamp_13: 296987331586324843
+      ProfessorStamp_14: -4301135122297917503
+      ProfessorStamp_15: -8840977476112166649
+      ProfessorStamp_16: -1045654374120962686
+      ProfessorStamp_17: 5992478415917913214
+      ProfessorStamp_18: -3594872125206094615
+      ProfessorStamp_19: 6378870966547076380
+      ProfessorStamp_2: -8379867074450160837
+      ProfessorStamp_20: -5037905888301371795
+      ProfessorStamp_21: -3887650872933490504
+      ProfessorStamp_22: 8752531826012983902
+      ProfessorStamp_23: 3553428502677873919
+      ProfessorStamp_24: -7102831785383647473
+      ProfessorStamp_25: -5160989731142589769
+      ProfessorStamp_26: 3990989785951801432
+      ProfessorStamp_27: -4289787058355537283
+      ProfessorStamp_28: 651531645496952940
+      ProfessorStamp_29: -8143627300537270226
+      ProfessorStamp_3: 6905915668965227427
+      ProfessorStamp_30: 1121862434478374945
+      ProfessorStamp_31: -5275199783236222264
+      ProfessorStamp_32: -5156164167437145336
+      ProfessorStamp_33: -6506863997820202389
+      ProfessorStamp_34: -5259187935789953000
+      ProfessorStamp_35: 4266209534640381760
+      ProfessorStamp_36: -172081100790132143
+      ProfessorStamp_37: 5091994221538937264
+      ProfessorStamp_38: 321520756311004596
+      ProfessorStamp_39: -3128676253725735095
+      ProfessorStamp_4: 469993906278636872
+      ProfessorStamp_40: -2265920729610219515
+      ProfessorStamp_41: 7416864963915247891
+      ProfessorStamp_42: -8306361487184790570
+      ProfessorStamp_43: 8325506711564862557
+      ProfessorStamp_44: 872503660654546667
+      ProfessorStamp_45: -2160588797972205395
+      ProfessorStamp_46: 1702392776507392116
+      ProfessorStamp_47: 2659008618896287507
+      ProfessorStamp_48: 8207342618778362963
+      ProfessorStamp_49: 385193842251605664
+      ProfessorStamp_5: 2845998942148743321
+      ProfessorStamp_50: 482237055703383059
+      ProfessorStamp_51: -8087862305951170741
+      ProfessorStamp_52: -7668342301088443722
+      ProfessorStamp_53: -443647054315658170
+      ProfessorStamp_54: 917836359612974523
+      ProfessorStamp_6: 8454756566442963393
+      ProfessorStamp_7: 1470640273592661145
+      ProfessorStamp_8: -1701277150986887764
+      ProfessorStamp_9: -8176339692391498824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ddfb3a3246761148a8cfe0952406748, type: 3}
+  m_Name: MelroyD4M1
+  m_EditorClassIdentifier: 
+  misionID: EloiD4M1
+  MisionName: Dejar pasar a los alumnos de Melroy
+  IsCumplida: 0
+  Pasos:
+  - NamePaso: Hablar con eloi para empezar la mision
+    IsCumplido: 0
+  - NamePaso: Dejar pasar alumno Melroy 1
+    IsCumplido: 0
+  - NamePaso: Dejar pasar alumno Melroy 2
+    IsCumplido: 0
+  - NamePaso: Dejar pasar alumno Melroy 3
+    IsCumplido: 0
+  - NamePaso: Dejar pasar alumno Melroy 4
+    IsCumplido: 0
+  - NamePaso: Dejar pasar alumno Melroy 5
+    IsCumplido: 0
+  - NamePaso: Dejar pasar alumno Melroy 6
+    IsCumplido: 0
+  NameCharacterMision: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15776150960a41f4f87e19e497a03310, type: 3}
+  m_Name: FFND10M0.3 1
+  m_EditorClassIdentifier: 
+  textoDialogo: No se no mucho mas, en la misma conversacion el que enviaba los mensajes
+    pregunto si tenia cigarros y si iban a salir o algo asi, aparte de eso no recuerdo
+    nada mas relevante
+  opciones:
+  - textoBoton: Interesante
+    siguienteNodo: {fileID: 11400000, guid: 7c9fb5751c069f148b72647220bd77ef, type: 2}
+    consecuencias: []

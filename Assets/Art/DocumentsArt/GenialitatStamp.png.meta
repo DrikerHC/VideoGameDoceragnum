@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 572b36aad5d42e2499c357b0fce4a76a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6717520570877955089
+    second: GenialitatStamp_0
+  - first:
+      213: 1115111777973286871
+    second: GenialitatStamp_1
+  - first:
+      213: -4294031086819866420
+    second: GenialitatStamp_2
+  - first:
+      213: -5880823595510661143
+    second: GenialitatStamp_3
+  - first:
+      213: -5325722458809098979
+    second: GenialitatStamp_4
+  - first:
+      213: -3942184016268725447
+    second: GenialitatStamp_5
+  - first:
+      213: -6187196172946453857
+    second: GenialitatStamp_6
+  - first:
+      213: 3889659878666822690
+    second: GenialitatStamp_7
+  - first:
+      213: 4386838582743363862
+    second: GenialitatStamp_8
+  - first:
+      213: 7894426128420762315
+    second: GenialitatStamp_9
+  - first:
+      213: -6408387531152566977
+    second: GenialitatStamp_10
+  - first:
+      213: 2330644231715517881
+    second: GenialitatStamp_11
+  - first:
+      213: -1821543507861199543
+    second: GenialitatStamp_12
+  - first:
+      213: -3438397752993872901
+    second: GenialitatStamp_13
+  - first:
+      213: 4096234978805458302
+    second: GenialitatStamp_14
+  - first:
+      213: -1092838105262638867
+    second: GenialitatStamp_15
+  - first:
+      213: -9022059188749928711
+    second: GenialitatStamp_16
+  - first:
+      213: 4935736258405891828
+    second: GenialitatStamp_17
+  - first:
+      213: 7022596337596944297
+    second: GenialitatStamp_18
+  - first:
+      213: 7277538636187845544
+    second: GenialitatStamp_19
+  - first:
+      213: 5668596596376761602
+    second: GenialitatStamp_20
+  - first:
+      213: -7630290292464101895
+    second: GenialitatStamp_21
+  - first:
+      213: -4615216500892667612
+    second: GenialitatStamp_22
+  - first:
+      213: 4220673815861214854
+    second: GenialitatStamp_23
+  - first:
+      213: 7946420609064787880
+    second: GenialitatStamp_24
+  - first:
+      213: 331497504881636306
+    second: GenialitatStamp_25
+  - first:
+      213: 1969155265640426989
+    second: GenialitatStamp_26
+  - first:
+      213: -3931479462272084165
+    second: GenialitatStamp_27
+  - first:
+      213: 4693196848913445632
+    second: GenialitatStamp_28
+  - first:
+      213: 448414747996021682
+    second: GenialitatStamp_29
+  - first:
+      213: 7390362279347861130
+    second: GenialitatStamp_30
+  - first:
+      213: 7644304430490205933
+    second: GenialitatStamp_31
+  - first:
+      213: -4842384503949057161
+    second: GenialitatStamp_32
+  - first:
+      213: 7362826754854492266
+    second: GenialitatStamp_33
+  - first:
+      213: -3428922028053275791
+    second: GenialitatStamp_34
+  - first:
+      213: 5542482092794213482
+    second: GenialitatStamp_35
+  - first:
+      213: -3024985528642669134
+    second: GenialitatStamp_36
+  - first:
+      213: -1873353079902806744
+    second: GenialitatStamp_37
+  - first:
+      213: 1150028492122619979
+    second: GenialitatStamp_38
+  - first:
+      213: 2757902547080246420
+    second: GenialitatStamp_39
+  - first:
+      213: 250587317045305610
+    second: GenialitatStamp_40
+  - first:
+      213: -1994990642399942007
+    second: GenialitatStamp_41
+  - first:
+      213: -1571538586081080113
+    second: GenialitatStamp_42
+  - first:
+      213: -8448739390763723338
+    second: GenialitatStamp_43
+  - first:
+      213: -4432360901614853178
+    second: GenialitatStamp_44
+  - first:
+      213: 8657168038575355327
+    second: GenialitatStamp_45
+  - first:
+      213: -1824962467943458664
+    second: GenialitatStamp_46
+  - first:
+      213: 1543648652272607274
+    second: GenialitatStamp_47
+  - first:
+      213: 3385385774449272400
+    second: GenialitatStamp_48
+  - first:
+      213: -7937690121856283288
+    second: GenialitatStamp_49
+  - first:
+      213: -2590488017074298860
+    second: GenialitatStamp_50
+  - first:
+      213: -8555272730976287925
+    second: GenialitatStamp_51
+  - first:
+      213: -8415482878224572368
+    second: GenialitatStamp_52
+  - first:
+      213: -5905362524630540806
+    second: GenialitatStamp_53
+  - first:
+      213: -2355867887543315681
+    second: GenialitatStamp_54
+  - first:
+      213: 7866612999542907560
+    second: GenialitatStamp_55
+  - first:
+      213: 5504364088107353765
+    second: GenialitatStamp_56
+  - first:
+      213: -2532588035976256784
+    second: GenialitatStamp_57
+  - first:
+      213: 4427925183413499001
+    second: GenialitatStamp_58
+  - first:
+      213: 7013064344423511367
+    second: GenialitatStamp_59
+  - first:
+      213: 3823086508050974030
+    second: GenialitatStamp_60
+  - first:
+      213: 7740033810339342694
+    second: GenialitatStamp_61
+  - first:
+      213: -2083804894509609703
+    second: GenialitatStamp_62
+  - first:
+      213: -5487180101500819322
+    second: GenialitatStamp_63
+  - first:
+      213: -268757540004374063
+    second: GenialitatStamp_64
+  - first:
+      213: -174833396888752624
+    second: GenialitatStamp_65
+  - first:
+      213: 161648266819042954
+    second: GenialitatStamp_66
+  - first:
+      213: 3596279945707415381
+    second: GenialitatStamp_67
+  - first:
+      213: 6026282696788892062
+    second: GenialitatStamp_68
+  - first:
+      213: -2526298291364472929
+    second: GenialitatStamp_69
+  - first:
+      213: 6065162725912253943
+    second: GenialitatStamp_70
+  - first:
+      213: 6281373145333831879
+    second: GenialitatStamp_71
+  - first:
+      213: -8742207420720110895
+    second: GenialitatStamp_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GenialitatStamp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c4f864e5d693d50800000000000000
+      internalID: 6717520570877955089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 194
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7b3f2014ca97f00800000000000000
+      internalID: 1115111777973286871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 188
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc80e9f2a798864c0800000000000000
+      internalID: -4294031086819866420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 182
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eff9da091e136ea0800000000000000
+      internalID: -5880823595510661143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 180
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d1d5ef3ab3716b0800000000000000
+      internalID: -5325722458809098979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 167
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9337417168c8a49c0800000000000000
+      internalID: -3942184016268725447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 176
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aced3acd9a22aa0800000000000000
+      internalID: -6187196172946453857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 173
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22466052d09daf530800000000000000
+      internalID: 3889659878666822690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 172
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6117563d27e21ec30800000000000000
+      internalID: 4386838582743363862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2f412ccb2ae8d60800000000000000
+      internalID: 7894426128420762315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 168
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35db965e75d017a0800000000000000
+      internalID: -6408387531152566977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 161
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b57739949c185020800000000000000
+      internalID: 2330644231715517881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 150
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945a30f94d398b6e0800000000000000
+      internalID: -1821543507861199543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 143
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf38c48067b5840d0800000000000000
+      internalID: -3438397752993872901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 164
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75aa3ca200c8d830800000000000000
+      internalID: 4096234978805458302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de83fca888575d0f0800000000000000
+      internalID: -1092838105262638867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 153
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6f20008f43bc280800000000000000
+      internalID: -9022059188749928711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 149
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe7c43f9f14f7440800000000000000
+      internalID: 4935736258405891828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 136
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afcc676926457160800000000000000
+      internalID: 7022596337596944297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 123
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a34821e4d20ff460800000000000000
+      internalID: 7277538636187845544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 138
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20576062296eaae40800000000000000
+      internalID: 5668596596376761602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 130
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5d090f763cb1690800000000000000
+      internalID: -7630290292464101895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 126
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42175ce7b0573ffb0800000000000000
+      internalID: -4615216500892667612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_23
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 141
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e33333978d29a30800000000000000
+      internalID: 4220673815861214854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 134
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af5627217b574e60800000000000000
+      internalID: 7946420609064787880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_25
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 132
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3f56e6937b99400800000000000000
+      internalID: 331497504881636306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_26
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 126
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded6614f748d35b10800000000000000
+      internalID: 1969155265640426989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 124
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37578942449079c0800000000000000
+      internalID: -3931479462272084165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 115
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003f7702ba5912140800000000000000
+      internalID: 4693196848913445632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 110
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3695666d6193600800000000000000
+      internalID: 448414747996021682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_30
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86b9f55657df8660800000000000000
+      internalID: 7390362279347861130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_31
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee3056d066061a60800000000000000
+      internalID: 7644304430490205933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 96
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773a24023f46cccb0800000000000000
+      internalID: -4842384503949057161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 118
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6818d17ce30e2660800000000000000
+      internalID: 7362826754854492266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_34
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 114
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b5f5b25950a60d0800000000000000
+      internalID: -3428922028053275791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 111
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6476fa191adaec40800000000000000
+      internalID: 5542482092794213482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 107
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b57e8250b71506d0800000000000000
+      internalID: -3024985528642669134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_37
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 99
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d528d9c438006e0800000000000000
+      internalID: -1873353079902806744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 119
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b400c8a02d8b5ff00800000000000000
+      internalID: 1150028492122619979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 116
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494fcdb21c9064620800000000000000
+      internalID: 2757902547080246420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_40
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 109
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0124b156d34a7300800000000000000
+      internalID: 250587317045305610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 118
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ae585a49e5054e0800000000000000
+      internalID: -1994990642399942007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_42
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 100
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc41d97bf5c03ae0800000000000000
+      internalID: -1571538586081080113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_43
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 119
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b59da5994c00ca80800000000000000
+      internalID: -8448739390763723338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_44
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 114
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3aaee5e371d72c0800000000000000
+      internalID: -4432360901614853178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 108
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb53624a670742870800000000000000
+      internalID: 8657168038575355327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 105
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8985fc1fd4e6ca6e0800000000000000
+      internalID: -1824962467943458664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_47
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 90
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2028b845442c6510800000000000000
+      internalID: 1543648652272607274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_48
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 87
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a5b1ec6e4bfe20800000000000000
+      internalID: 3385385774449272400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 81
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d01adc3e8a7d190800000000000000
+      internalID: -7937690121856283288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410616b9fdcbc0cd0800000000000000
+      internalID: -2590488017074298860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43829967c0954980800000000000000
+      internalID: -8555272730976287925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 83
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ea0ec8e2363b80800000000000000
+      internalID: -8415482878224572368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd1e716210fb0ea0800000000000000
+      internalID: -5905362524630540806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_54
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 94
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f131b3163a64e4fd0800000000000000
+      internalID: -2355867887543315681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_55
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 89
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2a93f08d2db2d60800000000000000
+      internalID: 7866612999542907560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_56
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 79
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a64e0a89fd636c40800000000000000
+      internalID: 5504364088107353765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_57
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 75
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f22b3979907adcd0800000000000000
+      internalID: -2532588035976256784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_58
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 66
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9743e518e76237d30800000000000000
+      internalID: 4427925183413499001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 64
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745325c4dd8635160800000000000000
+      internalID: 7013064344423511367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_60
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 58
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4587f96ce45e0530800000000000000
+      internalID: 3823086508050974030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_61
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6692ac6fdbf1a6b60800000000000000
+      internalID: 7740033810339342694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_62
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 69
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dc8892d76d413e0800000000000000
+      internalID: -2083804894509609703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 64
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688a37f15ce99d3b0800000000000000
+      internalID: -5487180101500819322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 62
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d459f07e254cf0800000000000000
+      internalID: -268757540004374063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e229ba3fdd29df0800000000000000
+      internalID: -174833396888752624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 72
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e7e420e3a4e3200800000000000000
+      internalID: 161648266819042954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_67
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 67
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55760c48e8d88e130800000000000000
+      internalID: 3596279945707415381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_68
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 62
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995f222f28a1a350800000000000000
+      internalID: 6026282696788892062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 50
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f975b82c619c0fcd0800000000000000
+      internalID: -2526298291364472929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_70
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f590f65d59cb2450800000000000000
+      internalID: 6065162725912253943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_71
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 45
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c81d45789beb2750800000000000000
+      internalID: 6281373145333831879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenialitatStamp_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 43
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2a1374ba07da680800000000000000
+      internalID: -8742207420720110895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GenialitatStamp_0: 6717520570877955089
+      GenialitatStamp_1: 1115111777973286871
+      GenialitatStamp_10: -6408387531152566977
+      GenialitatStamp_11: 2330644231715517881
+      GenialitatStamp_12: -1821543507861199543
+      GenialitatStamp_13: -3438397752993872901
+      GenialitatStamp_14: 4096234978805458302
+      GenialitatStamp_15: -1092838105262638867
+      GenialitatStamp_16: -9022059188749928711
+      GenialitatStamp_17: 4935736258405891828
+      GenialitatStamp_18: 7022596337596944297
+      GenialitatStamp_19: 7277538636187845544
+      GenialitatStamp_2: -4294031086819866420
+      GenialitatStamp_20: 5668596596376761602
+      GenialitatStamp_21: -7630290292464101895
+      GenialitatStamp_22: -4615216500892667612
+      GenialitatStamp_23: 4220673815861214854
+      GenialitatStamp_24: 7946420609064787880
+      GenialitatStamp_25: 331497504881636306
+      GenialitatStamp_26: 1969155265640426989
+      GenialitatStamp_27: -3931479462272084165
+      GenialitatStamp_28: 4693196848913445632
+      GenialitatStamp_29: 448414747996021682
+      GenialitatStamp_3: -5880823595510661143
+      GenialitatStamp_30: 7390362279347861130
+      GenialitatStamp_31: 7644304430490205933
+      GenialitatStamp_32: -4842384503949057161
+      GenialitatStamp_33: 7362826754854492266
+      GenialitatStamp_34: -3428922028053275791
+      GenialitatStamp_35: 5542482092794213482
+      GenialitatStamp_36: -3024985528642669134
+      GenialitatStamp_37: -1873353079902806744
+      GenialitatStamp_38: 1150028492122619979
+      GenialitatStamp_39: 2757902547080246420
+      GenialitatStamp_4: -5325722458809098979
+      GenialitatStamp_40: 250587317045305610
+      GenialitatStamp_41: -1994990642399942007
+      GenialitatStamp_42: -1571538586081080113
+      GenialitatStamp_43: -8448739390763723338
+      GenialitatStamp_44: -4432360901614853178
+      GenialitatStamp_45: 8657168038575355327
+      GenialitatStamp_46: -1824962467943458664
+      GenialitatStamp_47: 1543648652272607274
+      GenialitatStamp_48: 3385385774449272400
+      GenialitatStamp_49: -7937690121856283288
+      GenialitatStamp_5: -3942184016268725447
+      GenialitatStamp_50: -2590488017074298860
+      GenialitatStamp_51: -8555272730976287925
+      GenialitatStamp_52: -8415482878224572368
+      GenialitatStamp_53: -5905362524630540806
+      GenialitatStamp_54: -2355867887543315681
+      GenialitatStamp_55: 7866612999542907560
+      GenialitatStamp_56: 5504364088107353765
+      GenialitatStamp_57: -2532588035976256784
+      GenialitatStamp_58: 4427925183413499001
+      GenialitatStamp_59: 7013064344423511367
+      GenialitatStamp_6: -6187196172946453857
+      GenialitatStamp_60: 3823086508050974030
+      GenialitatStamp_61: 7740033810339342694
+      GenialitatStamp_62: -2083804894509609703
+      GenialitatStamp_63: -5487180101500819322
+      GenialitatStamp_64: -268757540004374063
+      GenialitatStamp_65: -174833396888752624
+      GenialitatStamp_66: 161648266819042954
+      GenialitatStamp_67: 3596279945707415381
+      GenialitatStamp_68: 6026282696788892062
+      GenialitatStamp_69: -2526298291364472929
+      GenialitatStamp_7: 3889659878666822690
+      GenialitatStamp_70: 6065162725912253943
+      GenialitatStamp_71: 6281373145333831879
+      GenialitatStamp_72: -8742207420720110895
+      GenialitatStamp_8: 4386838582743363862
+      GenialitatStamp_9: 7894426128420762315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

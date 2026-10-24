@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15776150960a41f4f87e19e497a03310, type: 3}
+  m_Name: ND2M1.1
+  m_EditorClassIdentifier: 
+  miTextoLocalizado:
+    m_TableReference:
+      m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+    m_TableEntryReference:
+      m_KeyId: 1131004775981056
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  ActionSpend: 0
+  opciones:
+  - textoBoton: Vere lo que puedo hacer
+    siguienteNodo: {fileID: 0}
+    miOpcionLocalizada:
+      m_TableReference:
+        m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+      m_TableEntryReference:
+        m_KeyId: 1139954275672064
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    consecuencias:
+    - {fileID: 0}
+  - textoBoton: Sabes que me quitan dinero si no hago bien mi trabajo no?
+    siguienteNodo: {fileID: 11400000, guid: 2de8e684fd9e11640ba69d121b84e7fb, type: 2}
+    miOpcionLocalizada:
+      m_TableReference:
+        m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+      m_TableEntryReference:
+        m_KeyId: 1140002459836416
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    consecuencias:
+    - {fileID: 0}
+  references:
+    version: 2
+    RefIds: []

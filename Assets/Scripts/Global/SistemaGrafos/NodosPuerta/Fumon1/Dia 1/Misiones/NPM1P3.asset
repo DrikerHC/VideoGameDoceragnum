@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efcbb5a4cc3cb09418184dab87a32a0d, type: 3}
+  m_Name: NPM1P3
+  m_EditorClassIdentifier: 
+  nodoExito: {fileID: 11400000, guid: aca738971bc30ba4b9522abd27e2373a, type: 2}
+  nodoFallo: {fileID: 11400000, guid: c6f4af0904430b847bbf1ce8f006ddc8, type: 2}
+  requisitos:
+  - nombreVariable: EloiD1M1
+    valorNecesario: 2
+    comparacion: 0

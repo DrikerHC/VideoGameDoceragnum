@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15776150960a41f4f87e19e497a03310, type: 3}
+  m_Name: V1ND10M0.1
+  m_EditorClassIdentifier: 
+  textoDialogo: Pues la verdad esque no mucha cosa, lo unico raro es el profesor
+    ese nuevo, no se es muy excentrico siempre hablando fuerte y agitado. Por lo
+    demas no mucho
+  opciones:
+  - textoBoton: Entiendo...
+    siguienteNodo: {fileID: 11400000, guid: 99fa8f8235f16fe42a94ab93b819eb40, type: 2}
+    consecuencias: []
+  - textoBoton: Estres?
+    siguienteNodo: {fileID: 11400000, guid: 8006aa3833b89554f83ee6332e78c33f, type: 2}
+    consecuencias: []

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6895d8fdc8716dc46974f6b41609af15, type: 3}
+  m_Name: MegaEpicPersonajePrincipal
+  m_EditorClassIdentifier: 
+  Name: Epic
+  Surname1: 
+  Surname2: 
+  Gender: 
+  Photo: {fileID: 0}
+  DniNumber: 
+  CenterName: 
+  CenterAddress: 
+  CenterCity: 
+  StudentId: 0
+  Grade: 
+  Model:
+    Type: 1
+    Documents: 
+  Documents: []
+  RootNode: {fileID: 11400000, guid: b0beaf62640d1554e99b4cbcae762b0a, type: 2}
+  afectoActual: 0
+  afectoMaximo: 100
+  listaConsecuenciasPorDia:
+    listas: []
+  LocatedInRoom: Floor1Body
+  DefaultPosition: {x: 50, y: 50, z: 0}
+  Position: {x: 0, y: 0, z: 0}
+  Sprite: {fileID: 21300000, guid: 4111062bbe24a3b49bdb8b22b45ebe7c, type: 3}
+  DialogueImage: {fileID: 21300000, guid: 4111062bbe24a3b49bdb8b22b45ebe7c, type: 3}
+  colorDeNombre: {r: 0.5722658, g: 0.061409745, b: 0.8679245, a: 1}
+  IsTalkedToday: 0

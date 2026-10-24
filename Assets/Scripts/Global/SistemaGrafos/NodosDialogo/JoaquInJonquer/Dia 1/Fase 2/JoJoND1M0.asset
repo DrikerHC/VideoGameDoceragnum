@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15776150960a41f4f87e19e497a03310, type: 3}
+  m_Name: JoJoND1M0
+  m_EditorClassIdentifier: 
+  miTextoLocalizado:
+    m_TableReference:
+      m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+    m_TableEntryReference:
+      m_KeyId: 4303758052384768
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 0
+    m_LocalVariables: []
+  ActionSpend: 0
+  opciones:
+  - textoBoton: claro
+    siguienteNodo: {fileID: 11400000, guid: e8bc62251e2f0a445a2db7fb2597d909, type: 2}
+    miOpcionLocalizada:
+      m_TableReference:
+        m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+      m_TableEntryReference:
+        m_KeyId: 4308099287048192
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    consecuencias:
+    - {fileID: 11400000, guid: f26158a9286378c4991ea6b9da79a742, type: 2}
+  - textoBoton: No Puedo
+    siguienteNodo: {fileID: 0}
+    miOpcionLocalizada:
+      m_TableReference:
+        m_TableCollectionName: GUID:cd660ffb914eeb4468e060acd7bc2fcd
+      m_TableEntryReference:
+        m_KeyId: 765867128872960
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+    consecuencias:
+    - {fileID: 11400000, guid: 320daf15a6afa64408c2254e66484444, type: 2}
+    - {fileID: 11400000, guid: f26158a9286378c4991ea6b9da79a742, type: 2}
+  references:
+    version: 2
+    RefIds: []

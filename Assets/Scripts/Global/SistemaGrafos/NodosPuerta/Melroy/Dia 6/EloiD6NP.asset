@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efcbb5a4cc3cb09418184dab87a32a0d, type: 3}
+  m_Name: EloiD6NP
+  m_EditorClassIdentifier: 
+  nodoExito: {fileID: 11400000, guid: dd04b5ee25c53e0439e55751b627b156, type: 2}
+  nodoFallo: {fileID: 11400000, guid: 2d54822c0a0961948b5938a58c53c855, type: 2}
+  requisitos:
+  - nombreVariable: Dia
+    valorNecesario: 6
+    comparacion: 2

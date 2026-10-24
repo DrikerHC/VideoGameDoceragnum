@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15776150960a41f4f87e19e497a03310, type: 3}
+  m_Name: F1ND10M0.2
+  m_EditorClassIdentifier: 
+  textoDialogo: Algo que si me parecio raro esque Vector nunca salia a fumar con
+    nosotros, y esta ultima semana no ha dejado de salir todos los dias a fumar con
+    nosotros, ademas parece hasta estresado, quizas este estresado con sus examenes
+    de la uni supongo.
+  opciones:
+  - textoBoton: Entiendo gracias
+    siguienteNodo: {fileID: 0}
+    consecuencias: []
+  - textoBoton: Y de las reglas que opinas
+    siguienteNodo: {fileID: 11400000, guid: d74af1483de661142bd5c6b23a11c785, type: 2}
+    consecuencias: []

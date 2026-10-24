@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efcbb5a4cc3cb09418184dab87a32a0d, type: 3}
+  m_Name: VectorD3NP
+  m_EditorClassIdentifier: 
+  nodoExito: {fileID: 11400000, guid: 597b3e9ccf5554a40a0782a5a4789f8f, type: 2}
+  nodoFallo: {fileID: 11400000, guid: 17cb8975a373a454089a3067bf2fb16a, type: 2}
+  requisitos:
+  - nombreVariable: Dia
+    valorNecesario: 3
+    comparacion: 2

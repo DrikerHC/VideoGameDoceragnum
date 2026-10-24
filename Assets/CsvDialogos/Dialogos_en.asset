@@ -1,0 +1,905 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Dialogos_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: cd660ffb914eeb4468e060acd7bc2fcd, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 44910403739648
+    m_Localized: "Alright, well, as the temporary caretaker, I\u2019m going to need
+      you to do me a small favor, okay?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38161433059328
+    m_Localized: "Hi Mark, Frany told me that now the caretaker is on sick leave,
+      you\u2019ve had to take charge, right?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45199265456128
+    m_Localized: "So, I need you to go to classroom 3A. I\u2019m not sure what the
+      issue is, but the internet isn\u2019t working, and I have an exam today with
+      the first-year higher vocational students."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45317104427008
+    m_Localized: "Yeah, yeah\u2026 well, if you want, I can give you a couple of
+      tissues to cry, but I need you, as the temporary caretaker, to do your job
+      and help me out with something."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 45678657626112
+    m_Localized: "Thanks a lot, mate \u2014 now I\u2019ll be able to fail them all."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46004366303232
+    m_Localized: No.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49934068441088
+    m_Localized: Yeah, I suppose so.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50326315556864
+    m_Localized: "Like hell I am! I\u2019m still not buying any of this"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51475819094016
+    m_Localized: Lay it on me
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51721001328640
+    m_Localized: "It\u2019s not like I have a choice, so just tell me"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52462755602432
+    m_Localized: "Did you even hear me when I said I\u2019m not okay with this?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52486948347904
+    m_Localized: What can I say? I'm all ears
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53312722919424
+    m_Localized: Couldn't you just push the exam back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53355840364544
+    m_Localized: "(Sighs) Fine. I\u2019m on my way."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54355133292544
+    m_Localized: Leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 54889512787968
+    m_Localized: No sweat, man
+    m_Metadata:
+      m_Items: []
+  - m_Id: 719593084116992
+    m_Localized: Eyyy Mark. crees que podrias ayudar a tu gran amigo Joaquin?(INGLES)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 765867128872960
+    m_Localized: Ahora mismo no colega(INGLES)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 766301121896448
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 766795508703232
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 766844296847360
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 767444321394688
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 767585111597056
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 768799685566464
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769013020450816
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769074764800000
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769485810786304
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769731458588672
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 769867752497152
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 770138167664640
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 770169742385152
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 770255637536768
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 770300235571200
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771333410086912
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771432999641088
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771574523846656
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 771693180706816
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773492402905088
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 773777447804928
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774740292231168
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774866859548672
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774984295866368
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 774986179108864
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 776840564793344
+    m_Localized: Hey Mark did you need anything?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 789370892804096
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 789482222215168
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 791384422965248
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 791590715613184
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 793988783759360
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 794436664123392
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 795830955630592
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 800986719936512
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801487691800576
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 801797629894656
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 804062285619200
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 808281956769792
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1126461950484480
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1129748397383680
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1130174739996672
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1131004775981056
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1139954275672064
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140002459836416
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1145031698767872
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1145231544770560
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1147694339416064
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149960169545728
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150101697945600
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150836405788672
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150867615604736
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1150892647211008
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1152015508529152
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1152980638851072
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153009088815104
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153019960451072
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153346512183296
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1153595788058624
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1154244630110208
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155260289212416
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155791829164032
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1155945202278400
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158129126039552
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1158997946753024
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159026371551232
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1159807015411712
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1160516221886464
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1160529878540288
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162130018099200
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162338630197248
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1162896539738112
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1163245300310016
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1163909678063616
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1164027659640832
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1381218539626496
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1383477713395712
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1386096703922176
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387376671285248
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387419050532864
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1387532326100992
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1388653715218432
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1388904299716608
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1389584108314624
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1390351267487744
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1390689127063552
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1391254317916160
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1394536780226560
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395266656231424
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395314471297024
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395469727653888
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395873483939840
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1395951569297408
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396209837760512
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396338753888256
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399256945090560
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399877735636992
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1399891123855360
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1400725253480448
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1401163541471232
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1401245917601792
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1402536253284352
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1402631312990208
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1403535940476928
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1403742363148288
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1404324599652352
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1405780362878976
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1406415309201408
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1406550164463616
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1407096132820992
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1407586761531392
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1408003574685696
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1408092829474816
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1409499297046528
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1409547716091904
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1410076265504768
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411671912964096
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411832840019968
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411863273889792
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411875991019520
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411899512676352
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1411912632459264
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412147446374400
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1412528658276352
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413005634527232
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413291518287872
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413385936265216
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413594175070208
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413805001760768
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413935562055680
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1413994886291456
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1414177518870528
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1414335463776256
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1414343177101312
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2263877594075136
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2627726513627136
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633186625019904
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633455756730368
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633656315764736
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2633666914770944
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2638140328730624
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2638774209699840
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2638987813019648
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2876100319993856
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2876431162499072
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2876647219486720
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2876981157388288
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2877948967870464
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884744746983424
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2884868160184320
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2905526357286912
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2907027611934720
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3317755170873344
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3318504797855744
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3324479361605632
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4301340568805376
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4303226516627456
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4302013326778368
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4303758052384768
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4308099287048192
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4308243336224768
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4308586665172992
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4308883152134144
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4309957195948032
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4405921789333504
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4406629964009472
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4407976352370688
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4412288910577664
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4412594515955712
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4432220381597696
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434052822683648
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434178119127040
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434521448075264
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434641229008896
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4434775954247680
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4438036203524096
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4668220420743168
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4715034507304960
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4717210407362560
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4717387071447040
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4717610141310976
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4717849652846592
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4718042687299584
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4718048697737216
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4718670054514688
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4719193809838080
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4763348357828608
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4763715363622912
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5109980253343744
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5110323649400832
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5110404666576896
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5110507481550848
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5114965598883840
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5115206242881536
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5159650287636480
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5159854093062144
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5175919934132224
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9108175581040640
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9385139627450368
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9385964659630080
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9386754430296064
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9387474273525760
+    m_Localized: INGLES
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
